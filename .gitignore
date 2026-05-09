@@ -1,0 +1,7 @@
+data/
+dashboard/
+outputs/*.pkl
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
